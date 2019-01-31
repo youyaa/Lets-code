@@ -73,3 +73,10 @@ private int bsearchInternally(int[] a, int low, int high, int value) {
   }
 }
 ```
+
+## 思考题：
+利用二分查找算法在循环有序的不重复数组中查找指定值，类似在4，5，6，1，2，3 中查找指定值
+
+实现：
+
+参考CircleSortedBinarySearch.java
